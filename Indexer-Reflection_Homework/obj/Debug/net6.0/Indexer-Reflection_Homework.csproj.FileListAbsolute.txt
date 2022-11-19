@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Indexer-Reflection_Homework\Indexer-Reflection_Homework\obj\Debug\net6.0\Indexer-Reflection_Homework.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Indexer-Reflection_Homework\Indexer-Reflection_Homework\obj\Debug\net6.0\Indexer-Reflection_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Indexer-Reflection_Homework\Indexer-Reflection_Homework\obj\Debug\net6.0\Indexer-Reflection_Homework.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Indexer-Reflection_Homework\Indexer-Reflection_Homework\obj\Debug\net6.0\Indexer-Reflection_Homework.AssemblyInfo.cs
+C:\Users\User\source\repos\Indexer-Reflection_Homework\Indexer-Reflection_Homework\obj\Debug\net6.0\Indexer-Reflection_Homework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Indexer-Reflection_Homework\Indexer-Reflection_Homework\bin\Debug\net6.0\Indexer-Reflection_Homework.exe
+C:\Users\User\source\repos\Indexer-Reflection_Homework\Indexer-Reflection_Homework\bin\Debug\net6.0\Indexer-Reflection_Homework.deps.json
+C:\Users\User\source\repos\Indexer-Reflection_Homework\Indexer-Reflection_Homework\bin\Debug\net6.0\Indexer-Reflection_Homework.runtimeconfig.json
+C:\Users\User\source\repos\Indexer-Reflection_Homework\Indexer-Reflection_Homework\bin\Debug\net6.0\Indexer-Reflection_Homework.dll
+C:\Users\User\source\repos\Indexer-Reflection_Homework\Indexer-Reflection_Homework\bin\Debug\net6.0\Indexer-Reflection_Homework.pdb
+C:\Users\User\source\repos\Indexer-Reflection_Homework\Indexer-Reflection_Homework\obj\Debug\net6.0\Indexer-Reflection_Homework.dll
+C:\Users\User\source\repos\Indexer-Reflection_Homework\Indexer-Reflection_Homework\obj\Debug\net6.0\refint\Indexer-Reflection_Homework.dll
+C:\Users\User\source\repos\Indexer-Reflection_Homework\Indexer-Reflection_Homework\obj\Debug\net6.0\Indexer-Reflection_Homework.pdb
+C:\Users\User\source\repos\Indexer-Reflection_Homework\Indexer-Reflection_Homework\obj\Debug\net6.0\Indexer-Reflection_Homework.genruntimeconfig.cache
+C:\Users\User\source\repos\Indexer-Reflection_Homework\Indexer-Reflection_Homework\obj\Debug\net6.0\ref\Indexer-Reflection_Homework.dll
